@@ -1,0 +1,35 @@
+date,event,holiday,no_classes,exam_period
+2025-09-01,Labor Day. University Closed,1,1,0
+2025-09-02,First Day of Classes,0,0,0
+2025-09-08,Last Day to Add/Drop a Class,0,0,0
+2025-09-08,Last Day for 100% Refund,0,0,0
+2025-09-09,W Grades Posted for Course Withdrawals,0,0,0
+2025-09-15,Last Day for 90% Refund,0,0,0
+2025-09-29,Last Day for 50% Refund,0,0,0
+2025-10-02,Wellness Day - No Classes Scheduled - University Open,0,1,0
+2025-10-20,Last Day for 25% Refund,0,0,0
+2025-11-10,Last Day to Withdraw from Classes,0,0,0
+2025-11-25,Thursday Classes Meet,0,0,0
+2025-11-26,Friday Classes Meet,0,0,0
+2025-11-27,Thanksgiving Recess Begins. No Classes,0,1,0
+2025-11-30,Thanksgiving Recess Ends,0,0,0
+2025-12-11,Last Day of Classes,0,0,0
+2025-12-12,Reading Day,0,1,0
+2025-12-13,Saturday Classes Meet,0,0,0
+2025-12-14,Final Exams Begin,0,0,1
+2025-12-20,Final Exams End,0,0,1
+2025-12-22,Final Grades Due,0,0,0
+2025-12-23,Winter Session Classes Begin,0,0,0
+2025-12-23,Last Day to Add/Drop Classes,0,0,0
+2025-12-23,Last Day for 100% Refund,0,0,0
+2025-12-24,W Grades Posted for Withdrawals,0,0,0
+2025-12-24,Christmas Eve. No Classes,0,1,0
+2025-12-25,Christmas Day. No Classes - University Closed,1,1,0
+2025-12-29,Last Day for 90% Refund,0,0,0
+2025-12-31,New Year's Eve. Classes in Session,0,0,0
+2026-01-01,New Year's Day. No Classes - University Closed,1,1,0
+2026-01-02,Last Day for 50% Refund,0,0,0
+2026-01-05,Last Day to Withdraw,0,0,0
+2026-01-10,Inclement Weather Make-Up Day,0,0,0
+2026-01-15,Last Day of Winter Session,0,0,0
+2026-01-17,Final Grades Due,0,0,0
