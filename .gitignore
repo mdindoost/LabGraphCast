@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+*.log
+*.tmp
+
+# Data
+data/*.csv
+!data/sample_occupancy.csv   # keep only the tiny demo
