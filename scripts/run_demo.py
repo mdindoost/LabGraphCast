@@ -13,7 +13,7 @@ def main():
     G, features = build_single_lab_temporal_graph(df, lab_id="LAB_A")
     print("Graph nodes:", G.number_of_nodes(), "edges:", G.number_of_edges())
     print("Preview: first 5 rows")
-    print(features.head())
+    print(features.head(20))
 
 if __name__ == "__main__":
     main()
