@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: labgraphcast
+Version: 0.0.1
+Summary: Scalable GNN forecasting for lab occupancy with multilevel graph compression (CMG).
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: plotly
+Requires-Dist: streamlit
+Requires-Dist: scikit-learn
+Requires-Dist: statsmodels
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

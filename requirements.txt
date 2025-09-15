@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+plotly
+streamlit
+scikit-learn
+statsmodels
+# torch
+# torch-geometric
+# pytorch-lightning
+# numba
+networkx
