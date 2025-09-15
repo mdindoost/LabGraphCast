@@ -1,12 +1,18 @@
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
-*.egg-info/
-.venv/
-env/
-*.log
-*.tmp
 
-# Data
-data/*.csv
-!data/sample_occupancy.csv   # keep only the tiny demo
+# Packaging
+*.egg-info/
+*.egg
+*.whl
+dist/
+build/
+
+# Virtualenv
+.venv/
+
+# Logs and plots
+*.log
+*.png
+*.tmp
